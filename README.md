@@ -1,7 +1,8 @@
 ## Simple user submit form using React, Redux, Thunk, Formik and Yup
 
 1.This project was bootstrapped with
-[Create React App](https://github.com/facebook/create-react-app).
+[Create React App](https://github.com/facebook/create-react-app) and it is
+deployed to https://user-salary-form.netlify.app/
 
 2. Custom components for Floating input box, Error message, Submit button
 3. Used styled components for styling
