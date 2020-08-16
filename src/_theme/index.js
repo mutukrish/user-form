@@ -1,0 +1,7 @@
+export const LIGHTBG = '#eee'
+export const BORDERCLR = '#00b3a5'
+export const WHITEBG = '#FFF'
+export const DARKFONT = '#39464e'
+export const INPUTHOVER = '#ed9e37'
+export const BUTTONCOLOR = '#00b3a5'
+export const BUTTONHOVERCOLOR = '#008f84'

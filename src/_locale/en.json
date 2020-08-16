@@ -1,0 +1,20 @@
+{
+  "translations": {
+    "userFormName": "User Form",
+    "submit": "Submit",
+    "username": "Username",
+    "age": "Age",
+    "salary": "Salary",
+    "anotherRequest": "Another request",
+    "registerSuccess": "Registration Succesfull",
+    "userId": "Your user id is "
+  },
+  "errors": {
+    "minUsername": "User name must be above 1 character",
+    "maxUsername": "User name must not be above 25 characters",
+    "formatUsername": "User name must be only characters",
+    "requiredUsername": "User name is required number",
+    "formatSalary": "Salary must be in number",
+    "requiredSalary": "Salary is required number"
+  }
+}
